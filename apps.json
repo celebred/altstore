@@ -1,16 +1,30 @@
 {
-  "name": "Celebred's Library",
+  "name": "Celebred' Source",
   "identifier": "com.celebred.altstore",
   "apps": [
     {
-      "name": "YouTube Premium",
+      "name": "YouTube++",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Google",
       "version": "1.0.0",
       "versionDate": "2024-01-15",
+      "versionDescription": "Modified YouTube app",
       "downloadURL": "https://github.com/celebred/altstore/raw/main/YouTube.ipa",
-      "localizedDescription": "Enhanced YouTube app",
-      "tintColor": "FF0000"
+      "localizedDescription": "Enhanced YouTube experience with additional features",
+      "tintColor": "FF0000",
+      "size": 15674368
     }
-  ]
+  ],
+  "news": [
+    {
+      "title": "YouTube App Available!",
+      "identifier": "youtube-release",
+      "caption": "New App Added",
+      "tintColor": "FF0000",
+      "date": "2024-01-15",
+      "notify": true,
+      "appID": "com.google.ios.youtube"
+    }
+  ],
+  "userInfo": {}
 }
