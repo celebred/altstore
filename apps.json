@@ -1,30 +1,15 @@
 {
-  "name": "Celebred' Source",
+  "name": "4You Source",
   "identifier": "com.celebred.altstore",
   "apps": [
     {
-      "name": "YouTube++",
+      "name": "YouTube",
       "bundleIdentifier": "com.google.ios.youtube",
       "developerName": "Google",
       "version": "1.0.0",
       "versionDate": "2024-01-15",
-      "versionDescription": "Modified YouTube app",
       "downloadURL": "https://github.com/celebred/altstore/raw/main/YouTube.ipa",
-      "localizedDescription": "Enhanced YouTube experience with additional features",
-      "tintColor": "FF0000",
-      "size": 15674368
+      "localizedDescription": "Enhanced YouTube app"
     }
-  ],
-  "news": [
-    {
-      "title": "YouTube App Available!",
-      "identifier": "youtube-release",
-      "caption": "New App Added",
-      "tintColor": "FF0000",
-      "date": "2024-01-15",
-      "notify": true,
-      "appID": "com.google.ios.youtube"
-    }
-  ],
-  "userInfo": {}
+  ]
 }
